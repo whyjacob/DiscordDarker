@@ -1,0 +1,37 @@
+/**
+ * @name Discord Darker
+ * @author whyjacob#4306
+ * @version 1.0
+ * @description Makes discord darker than the dark theme!
+ * @source https://github.com/whyjacob/whyjacob/tree/main
+ */
+
+@import url('https://raw.githack.com/Ruben7173/Ruben7173.github.io/master/BetterDiscord-Themes/Modules/transparency2.css');
+@import url(https://www.worldatlas.com/r/w2000-h1125-q90/upload/aa/cc/38/shutterstock-361651271.jpg');
+
+:root{
+    --background: url('https://images.alphacoders.com/632/632525.png');
+    --activetext-colour: white;
+
+    --primary1-colour: rgb(49, 4, 252);
+    --primary2-colour: rgba(0, 140, 255, 0.5);
+    --primary3-colour: rgba(3, 2, 56, 0.6);
+
+    --secondary1-colour: rgba(50,50,50,0.3);
+    --secondary2-colour: rgba(100,100,100,0.5);
+    --secondary3-colour: rgba(0,0,0,0.5);
+
+    --transparency-1: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
+    --transparency-2: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
+    --transparency-3: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
+    --transparency-4: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
+    --transparency-5: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
+}
+  
+/*
+Theme Owned and Made by whyjacob#4306
+  
+Background Img: https://www.worldatlas.com/r/w2000-h1125-q90/upload/aa/cc/38/shutterstock-361651271.jpg
+Transparency2 Module: https://raw.githack.com/Ruben7173/Ruben7173.github.io/master/BetterDiscord-Themes/Modules/transparency2.css - By Ruben7173#5048
+The 2 items above are not owned by me, They go to there respected owners 
+*/
